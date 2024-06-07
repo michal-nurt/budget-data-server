@@ -1,0 +1,2 @@
+budget-data:
+  file: ./src/test/resources/budget-data.csv

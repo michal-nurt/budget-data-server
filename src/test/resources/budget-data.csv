@@ -1,0 +1,156 @@
+Date,Category,Description,Amount
+2023-01-02,Żywność,Zakupy spożywcze,230.00
+2023-01-05,Transport,Bilet miesięczny,60.00
+2023-01-08,Dom,Rachunek za gaz,80.00
+2023-01-12,Rozrywka,Wyjście do kina,25.00
+2023-01-15,Żywność,Obiad w restauracji,45.00
+2023-01-18,Transport,Paliwo,55.00
+2023-01-21,Odzież,Zakup ubrań,120.00
+2023-01-24,Dom,Opłata za mieszkanie,750.00
+2023-01-27,Żywność,Zakupy spożywcze,190.00
+2023-01-30,Inne,Naprawa sprzętu AGD,100.00
+2023-02-02,Transport,Bilet autobusowy,3.50
+2023-02-05,Żywność,Zakupy spożywcze,220.00
+2023-02-08,Dom,Rachunek za prąd,85.00
+2023-02-11,Rozrywka,Wyjście do teatru,35.00
+2023-02-14,Żywność,Obiad w restauracji,50.00
+2023-02-17,Transport,Paliwo,60.00
+2023-02-20,Odzież,Zakup butów,80.00
+2023-02-23,Dom,Opłata za mieszkanie,750.00
+2023-02-26,Żywność,Zakupy spożywcze,200.00
+2023-02-28,Inne,Naprawa samochodu,150.00
+2023-03-03,Żywność,Zakupy spożywcze,210.00
+2023-03-06,Transport,Bilet tramwajowy,2.80
+2023-03-09,Dom,Rachunek za gaz,85.00
+2023-03-12,Rozrywka,Abonament streamingowy,15.00
+2023-03-15,Żywność,Obiad w restauracji,40.00
+2023-03-18,Transport,Paliwo,65.00
+2023-03-21,Odzież,Zakup ubrań,100.00
+2023-03-24,Dom,Opłata za mieszkanie,750.00
+2023-03-27,Żywność,Zakupy spożywcze,180.00
+2023-03-30,Inne,Książki,30.00
+2023-04-02,Żywność,Zakupy spożywcze,240.00
+2023-04-05,Transport,Bilet autobusowy,3.50
+2023-04-08,Dom,Rachunek za prąd,90.00
+2023-04-11,Rozrywka,Wyjście do kina,30.00
+2023-04-14,Żywność,Obiad w restauracji,45.00
+2023-04-17,Transport,Paliwo,60.00
+2023-04-20,Odzież,Zakup ubrań,110.00
+2023-04-23,Dom,Opłata za mieszkanie,800.00
+2023-04-26,Żywność,Zakupy spożywcze,200.00
+2023-04-29,Inne,Naprawa roweru,50.00
+2023-05-02,Żywność,Zakupy spożywcze,220.00
+2023-05-05,Transport,Bilet tramwajowy,3.00
+2023-05-08,Dom,Rachunek za gaz,85.00
+2023-05-11,Rozrywka,Wyjście do teatru,35.00
+2023-05-14,Żywność,Obiad w restauracji,50.00
+2023-05-17,Transport,Paliwo,65.00
+2023-05-20,Odzież,Zakup butów,90.00
+2023-05-23,Dom,Opłata za mieszkanie,800.00
+2023-05-26,Żywność,Zakupy spożywcze,210.00
+2023-05-29,Inne,Naprawa sprzętu AGD,80.00
+2023-06-01,Żywność,Zakupy spożywcze,230.00
+2023-06-04,Transport,Bilet autobusowy,3.50
+2023-06-07,Dom,Rachunek za prąd,90.00
+2023-06-10,Rozrywka,Wyjście do kina,30.00
+2023-06-13,Żywność,Obiad w restauracji,45.00
+2023-06-16,Transport,Paliwo,60.00
+2023-06-19,Odzież,Zakup ubrań,110.00
+2023-06-22,Dom,Opłata za mieszkanie,800.00
+2023-06-25,Żywność,Zakupy spożywcze,200.00
+2023-06-28,Inne,Naprawa roweru,50.00
+2023-07-03,Żywność,Zakupy na piknik,80.00
+2023-07-06,Transport,Bilet lotniczy,300.00
+2023-07-10,Wakacje,Opłata za nocleg,500.00
+2023-07-15,Wakacje,Wyżywienie podczas podróży,150.00
+2023-07-20,Wakacje,Bilety do parku rozrywki,100.00
+2023-07-25,Wakacje,Prezenty pamiątkowe,50.00
+2023-07-28,Inne,Przegląd samochodu przed wyjazdem,80.00
+2023-08-02,Żywność,Restauracja nad morzem,70.00
+2023-08-05,Wakacje,Wypożyczenie rowerów,40.00
+2023-08-10,Wakacje,Wstęp na plażę,10.00
+2023-08-15,Wakacje,Ekskursja statkiem,120.00
+2023-08-20,Transport,Paliwo na powrót,70.00
+2023-08-25,Inne,Suwenir dla znajomych,20.00
+2023-08-30,Inne,Ostatnie zakupy przed powrotem,100.00
+2023-09-03,Żywność,Przeprowadzka,200.00
+2023-09-08,Transport,Bilet autobusowy w nowym mieście,2.50
+2023-09-13,Dom,Opłata za mieszkanie,750.00
+2023-09-18,Żywność,Zakupy spożywcze,180.00
+2023-09-23,Transport,Paliwo,55.00
+2023-09-28,Inne,Naprawa roweru,50.00
+2023-07-01,Żywność,Zakupy spożywcze,250.00
+2023-07-04,Transport,Bilet kolejowy,25.00
+2023-07-07,Dom,Rachunek za prąd,90.00
+2023-07-10,Inne,Ubezpieczenie podróżne,60.00
+2023-07-15,Rozrywka,Wyjście do kina,30.00
+2023-07-18,Żywność,Obiad w restauracji,50.00
+2023-07-21,Transport,Taksówka na lotnisko,25.00
+2023-07-24,Inne,Prezenty urodzinowe,40.00
+2023-07-27,Żywność,Zakupy spożywcze,200.00
+2023-07-30,Inne,Kosmetyki,35.00
+2023-08-03,Żywność,Zakupy na grill,80.00
+2023-08-06,Transport,Taksówka do plaży,15.00
+2023-08-09,Rozrywka,Wstęp do parku wodnego,40.00
+2023-08-12,Żywność,Piknik na plaży,60.00
+2023-08-16,Transport,Bilet na statek wycieczkowy,100.00
+2023-08-19,Inne,Pamiątki z wakacji,75.00
+2023-08-22,Inne,Sprzęt plażowy,30.00
+2023-08-25,Żywność,Obiad na tarasie restauracyjnym,70.00
+2023-08-28,Inne,Książki na plażę,20.00
+2023-08-31,Inne,Dodatkowe opłaty za wynajem apartamentu,50.00
+2023-09-03,Żywność,Zakupy na nowe mieszkanie,180.00
+2023-09-06,Transport,Bilet komunikacji miejskiej,3.20
+2023-09-09,Dom,Opłata za czynsz,800.00
+2023-09-12,Żywność,Zakupy spożywcze,200.00
+2023-09-15,Transport,Paliwo,60.00
+2023-09-18,Inne,Ubezpieczenie mieszkania,40.00
+2023-09-21,Rozrywka,Rejs statkiem po rzece,25.00
+2023-09-24,Żywność,Zakupy na weekend,120.00
+2023-09-27,Inne,Abonament telewizyjny,30.00
+2023-10-01,Żywność,Zakupy spożywcze,220.00
+2023-10-03,Transport,Bilet autobusowy,3.50
+2023-10-05,Dom,Rachunek za prąd,90.00
+2023-10-07,Rozrywka,Wyjście do kina,30.00
+2023-10-09,Żywność,Obiad w restauracji,50.00
+2023-10-11,Transport,Paliwo,65.00
+2023-10-13,Odzież,Zakup ubrań,120.00
+2023-10-15,Dom,Opłata za mieszkanie,800.00
+2023-10-17,Żywność,Zakupy spożywcze,190.00
+2023-10-19,Inne,Naprawa roweru,50.00
+2023-10-21,Żywność,Obiad w restauracji,55.00
+2023-10-23,Transport,Bilet tramwajowy,3.00
+2023-10-25,Dom,Rachunek za gaz,85.00
+2023-10-27,Rozrywka,Wyjście do teatru,35.00
+2023-10-29,Żywność,Zakupy spożywcze,200.00
+2023-10-31,Inne,Naprawa sprzętu AGD,80.00
+2023-11-01,Żywność,Zakupy spożywcze,230.00
+2023-11-03,Transport,Bilet autobusowy,3.50
+2023-11-05,Dom,Rachunek za prąd,95.00
+2023-11-07,Rozrywka,Wyjście do kina,25.00
+2023-11-09,Żywność,Obiad w restauracji,50.00
+2023-11-11,Transport,Paliwo,70.00
+2023-11-13,Odzież,Zakup ubrań,110.00
+2023-11-15,Dom,Opłata za mieszkanie,800.00
+2023-11-17,Żywność,Zakupy spożywcze,180.00
+2023-11-19,Inne,Prezenty na święta,100.00
+2023-11-21,Żywność,Obiad w restauracji,55.00
+2023-11-23,Transport,Bilet tramwajowy,3.00
+2023-11-25,Dom,Rachunek za gaz,90.00
+2023-11-27,Rozrywka,Wyjście do teatru,35.00
+2023-11-29,Żywność,Zakupy spożywcze,210.00
+2023-12-01,Żywność,Zakupy spożywcze,200.00
+2023-12-03,Transport,Bilet autobusowy,3.50
+2023-12-05,Dom,Rachunek za prąd,85.00
+2023-12-07,Rozrywka,Wyjście do kina,25.00
+2023-12-10,Żywność,Obiad w restauracji,50.00
+2023-12-12,Transport,Paliwo,60.00
+2023-12-15,Odzież,Zakup ubrań,100.00
+2023-12-17,Dom,Opłata za mieszkanie,800.00
+2023-12-20,Żywność,Zakupy spożywcze,180.00
+2023-12-22,Inne,Prezenty świąteczne,150.00
+2023-12-24,Żywność,Świąteczna kolacja,200.00
+2023-12-26,Transport,Paliwo na podróż świąteczną,70.00
+2023-12-28,Inne,Ozdoby świąteczne,40.00
+2023-12-30,Inne,Dekoracje noworoczne,30.00
+2023-12-31,Inne,Prezenty dla bliskich,100.00

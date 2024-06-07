@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: budget-data-server
+budget-data:
+  file: ./data/budget-data.csv
